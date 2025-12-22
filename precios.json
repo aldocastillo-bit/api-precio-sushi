@@ -1,1 +1,6 @@
+[
+  { "insumo": "Salmon", "precio": 8500 },
+  { "insumo": "Arroz", "precio": 1200 },
+  { "insumo": "Alga Nori", "precio": 300 }
+]
 

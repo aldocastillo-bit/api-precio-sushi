@@ -1,6 +1,10 @@
 [
-  { "insumo": "Salmon", "precio": 8500 },
   { "insumo": "Arroz", "precio": 1200 },
-  { "insumo": "Alga Nori", "precio": 300 }
+  { "insumo": "Salmón", "precio": 8500 },
+  { "insumo": "Palta", "precio": 1800 },
+  { "insumo": "Queso crema", "precio": 3200 },
+  { "insumo": "Alga Nori", "precio": 300 },
+  { "insumo": "Camarón", "precio": 7800 },
+  { "insumo": "Pollo", "precio": 4200 },
+  { "insumo": "Kanikama", "precio": 2600 }
 ]
-
